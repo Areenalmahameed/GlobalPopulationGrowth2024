@@ -13,7 +13,7 @@ The model groups cities by **population growth patterns** between 2023–2024
 and visualizes clusters clearly using color-coded charts
 **Areen Al-Mahameed**  
 🎓 AI & Data Science Student  
-[LinkedIn](https://www.linkedin.com/in/areen-al-mahameed)
+[LinkedIn]https://www.linkedin.com/in/areen-al-mahameed-57b7a2318/
 
 ---
 
