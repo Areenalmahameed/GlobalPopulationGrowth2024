@@ -3,8 +3,8 @@ import ReactDOM from "react-dom/client";
 
 function App() {
   return (
-    <div>
-      <h1>ZIKO Academic Pilot 🚀</h1>
+    <div style={{ padding: "40px", fontSize: "32px" }}>
+      ZIKO Academic Pilot 🚀
     </div>
   );
 }
